@@ -1,13 +1,14 @@
-Integrantes da Equipe:
+#App 01
+##Integrantes da Equipe:
 
-Cristhian Rodrigues Kindermann 
+- Cristhian Rodrigues Kindermann 
 GRR 20214914
 
-Eduardo Parolin
+- Eduardo Parolin
 GRR 20231003
 
-Natan Susin Cervinski
+- Natan Susin Cervinski
 GRR 20214629
 
-Thales Assis de Oliveira
-Grr20214912
+- Thales Assis de Oliveira
+GRR 20214912
